@@ -1,7 +1,7 @@
 # Table of contents
 
 * [collected works](README.md)
-* [artworks by year](artworks-by-year/README.md)
+* [index](artworks-by-year/README.md)
   * [2020](artworks-by-year/2020.md)
   * [2019](artworks-by-year/2019.md)
   * [2018](artworks-by-year/2018.md)
@@ -21,7 +21,6 @@
   * [2003](artworks-by-year/2003.md)
   * [2002](artworks-by-year/2002.md)
   * [2001](artworks-by-year/2001.md)
-* [works with others](works-with-others.md)
 * [texts](texts/README.md)
   * [Untitled](texts/untitled.md)
   * [-titled](texts/titled.md)
