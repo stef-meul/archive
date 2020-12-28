@@ -1,14 +1,15 @@
-# web
-<a href= "https://stefmeul.github.io/web/">homepage </a>  
+# collected works
 
-Explore these channels
-<br>
-<a href= "https://bittube.video/video-channels/commons/videos " target="_blank"> commons by ccder </a>
+[homepage](https://stefmeul.github.io/web/)
 
-<br><br>
-here's a video of me dancing
+Explore these channels   
+  [commons by ccder](https://bittube.video/video-channels/commons/videos%20)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f-aa7VlR4xM" frameborder="0" allowfullscreen="1"> </iframe>
+  
+  
+ here's a video of me dancing
 
-<br><br>
-<a href= "https://www.transdisciplinary.art/department-of-bad-television/" target="_blank"> department of bad television </a>
+  
+  
+  [department of bad television](https://www.transdisciplinary.art/department-of-bad-television/)
+
