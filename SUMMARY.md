@@ -2,7 +2,8 @@
 
 * [collected works](README.md)
 * [index](artworks-by-year/README.md)
-  * [2020](artworks-by-year/2020.md)
+  * [2020](artworks-by-year/2020/README.md)
+    * [Nine](artworks-by-year/2020/nine.md)
   * [2019](artworks-by-year/2019.md)
   * [2018](artworks-by-year/2018.md)
   * [2017](artworks-by-year/2017.md)
