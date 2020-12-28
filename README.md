@@ -10,3 +10,10 @@ Explore this data story. . .
 here's a video of me dancing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f-aa7VlR4xM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"> </iframe>
 
+again in privacy enhanced
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f-aa7VlR4xM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"> </iframe>
+
+again without encrypted media and clipboard write
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-aa7VlR4xM" frameborder="0" allow="accelerometer; autoplay; gyroscope; picture-in-picture" allowfullscreen="1"> </iframe>
