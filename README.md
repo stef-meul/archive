@@ -3,7 +3,7 @@
 [archive](https://stefmeul.github.io/archive/)
 
 Explore these channels   
-  [commons by ccder](https://bittube.video/video-channels/commons/videos%20)
+  [commons by ccder](https://bittube.video/video-channels/commons/videos)
 
   
   
