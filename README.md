@@ -1,6 +1,6 @@
 # collected works
 
-[homepage](https://stefmeul.github.io/web/)
+[archive](https://stefmeul.github.io/archive/)
 
 Explore these channels   
   [commons by ccder](https://bittube.video/video-channels/commons/videos%20)
